@@ -48,8 +48,10 @@ sudo apt update && sudo apt install g++
 ## 🚀 How to Run
 
 ### 1. **Clone the Repository**
-'''git clone https://github.com/ayyappareddynandipati/learn-bitwise-cpp.git
+```bash
+git clone https://github.com/ayyappareddynandipati/learn-bitwise-cpp.git
 cd learn-bitwise-cpp
+```
 
 
 ### 2. **Compile and Run Any File**
