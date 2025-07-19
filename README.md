@@ -48,13 +48,9 @@ sudo apt update && sudo apt install g++
 ## 🚀 How to Run
 
 ### 1. **Clone the Repository**
+'''git clone https://github.com/ayyappareddynandipati/learn-bitwise-cpp.git
+cd learn-bitwise-cpp
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-> Replace `your-username` and `your-repo-name` with your actual GitHub credentials and project name (e.g., `cpp-bit-magic`).
 
 ### 2. **Compile and Run Any File**
 
