@@ -29,10 +29,43 @@ These are ideal for:
 
 ---
 
+Each program is well-commented and beginner-friendly 🚀
+
+---
+
+## 🛠️ Prerequisites
+
+* C++ Compiler (like `g++`)
+
+Install via terminal if not already installed:
+
+```bash
+sudo apt update && sudo apt install g++
+```
+
+---
+
 ## 🚀 How to Run
 
-Make sure you have a C++ compiler installed. You can use `g++` to compile any file:
+### 1. **Clone the Repository**
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+> Replace `your-username` and `your-repo-name` with your actual GitHub credentials and project name (e.g., `cpp-bit-magic`).
+
+### 2. **Compile and Run Any File**
 
 ```bash
 g++ filename.cpp -o program
 ./program
+```
+
+For example:
+
+```bash
+g++ countSetBits.cpp -o countBits
+./countBits
+```
